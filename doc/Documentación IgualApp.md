@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/bannerNegro.png?raw=true" alt="IgualApp Logo" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/bannerNegroA.png?raw=true" alt="IgualApp Logo" width="400"/>
 </p>
 
 <h6 align="right">Adrián Camilo Tuta Cortés, Miguel Ángel Bejarano e Irving Rios Ramirez.</h6>
@@ -100,34 +100,9 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
 #### 3.1.5. Pantalla de Modelado y Simulación:
 
-- _Herramientas para Modelado y Simulación:_
-  - Se proporcionarán diversas herramientas para diferentes tipos de modelado y simulación, incluyendo **modelos matemáticos y simulaciones físicas**.
-  - Los usuarios podrán **crear modelos desde cero** o utilizar plantillas predefinidas.
-- _Funciones para Configurar y Analizar:_
-  - Los usuarios podrán importar datos externos en formatos como **CSV**.
-  - Las opciones de configuración permitirán ajustar parámetros y condiciones iniciales.
-  - Se podrá ejecutar **simulaciones paso a paso o en tiempo real**, con herramientas de visualización interactiva.
-- _Interfaz Coherente y Diseño Modular:_
-  - La interfaz tendrá una disposición lógica y uniforme de herramientas y opciones.
-  - Se emplearán métodos numéricos confiables y algoritmos para **cálculos precisos**.
-- _Enfoque en la Usabilidad:_
-  - Las opciones serán relevantes y **aplicables a diversas áreas**.
-  - El diseño modular permitirá futuras modificaciones sin comprometer la estabilidad.
-- _Priorización de Funciones Esenciales:_
-  - Las acciones y herramientas más utilizadas se destacarán y serán de fácil acceso.
-
 #### 3.1.6. Pantalla de Informes y Gráficos:
 
-- Se proporcionarán informes y gráficos detallados **basados en datos** de la aplicación.
-- La presentación será coherente y clara, permitiendo la **personalización** de informes y gráficos.
-- Se garantizará la precisión y corrección de los datos presentados.
-- La capacidad de modificación y actualización estará contemplada.
-
 #### 3.1.7. Pantalla de Configuración:
-
-- Los usuarios podrán personalizar la aplicación **según sus necesidades**.
-- La presentación de opciones será uniforme y se evitarán configuraciones problemáticas.
-- La modificación de opciones **no requerirá cambios fundamentales** en la arquitectura.
 
 #### 3.1.8. Pantalla de Ayuda y Soporte:
 
@@ -149,19 +124,11 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
 #### 3.1.11. Pantalla de Actualizaciones y Novedades:
 
-- Los usuarios serán informados sobre las **últimas actualizaciones** y mejoras.
-- Las actualizaciones se presentarán de manera detallada y precisa.
-- La presentación de actualizaciones será uniforme y permitirá **acceder a más detalles**.
-
 ### 3.2. _Requerimientos No Funcionales:_
 
 #### 3.2.1. **Gráficas en Tiempo Real:**
 
-El sistema debe contar con gráficas en tiempo real que muestren de manera dinámica los **procesos en ejecución**. Estas gráficas deben ser escalables y **eficientes en términos de rendimiento**. Además, deben ser configurables para mostrar diferentes tipos de procesos.
-
 #### 3.2.2. **Subida de Modelos de Procesos:**
-
-Los usuarios podrán subir sus propios modelos de procesos para su análisis y simulación. La aplicación debe admitir el formato de archivo CSV, y los modelos subidos deben pasar por un **proceso de validación** para asegurar su integridad y **compatibilidad** con la plataforma.
 
 #### 3.2.3. **Actualizaciones en Cada Lanzamiento:**
 
@@ -174,8 +141,6 @@ La interfaz de la aplicación utilizará una gama de colores diseñada específi
 Mas información en el **apartado 3** de la aplicación.
 
 #### 3.2.5. **Control de Edición en la Aplicación:**
-
-Los administradores tendrán la capacidad de **modificar contenidos** y configuraciones en la aplicación. Sin embargo, para evitar conflictos, **solo un administrador** podrá realizar cambios en una pestaña específica **a la vez**. Los otros administradores podrán observar los cambios en tiempo real sin intervenir.
 
 #### 3.2.6. **Almacenamiento de Cuentas en la Base de Datos:**
 
@@ -260,13 +225,13 @@ La aplicación estará diseñada para ser compatible con sistemas operativos com
 - #### Icono de la aplicación:
 
   <p align="center">
-    <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/icon.png?raw=true" alt="IgualApp icon" width="200"/>
+    <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/iconA.png?raw=true" alt="IgualApp icon" width="200"/>
   </p>
 
 - #### Logo grande:
 
   <p align="center">
-    <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/bannerNegro.png?raw=true" alt="IgualApp banner" width="300"/>
+    <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/bannerNegroA.png?raw=true" alt="IgualApp banner" width="300"/>
   </p>
 
 ### 2. TIPOGRAFÍA
@@ -302,40 +267,44 @@ La aplicación estará diseñada para ser compatible con sistemas operativos com
 
   - Permite a los nuevos usuarios crear una cuenta en la aplicación.
 
-- **Pantalla de Recuperación de Contraseña:**
-
-  - Permite al usuario recibir un correo para restablecer su contraseña.
-
 - **Pantalla Principal:**
 
-  - Muestra una visión general de los procesos industriales y sus indicadores clave de rendimiento (KPI).
+  - Muestra una visión general de la aplicación, sus objetivos y su propósito en la lucha contra el racismo.
 
-- **Pantalla de Modelado y Simulación:**
+- **Pantalla de Recursos Educativos:**
 
-  - Permite a los usuarios cargar modelos de procesos, realizar simulaciones y ver los resultados de optimización.
+  - Proporciona acceso a artículos, videos, libros y otros recursos educativos relacionados con la igualdad y la diversidad.
 
-- **Pantalla de Informes y Gráficos:**
+- **Pantalla de Comunidad:**
 
-  - Presenta informes detallados y gráficos que muestran los resultados de las simulaciones y optimizaciones realizadas.
+  - Permite a los usuarios participar en discusiones, compartir experiencias y colaborar en iniciativas de igualdad.
 
-- **Pantalla de Configuración:**
+- **Pantalla de Denuncia de Incidentes:**
 
-  - Permite a los usuarios personalizar la configuración de la aplicación y ajustar los parámetros de simulación.
+  - Ofrece a los usuarios la capacidad de reportar incidentes de racismo y discriminación, con la opción de registrar su ubicación y detalles.
+
+- **Pantalla de Información y Estadísticas:**
+
+  - Muestra estadísticas y datos relacionados con el racismo y la discriminación, así como historias de éxito y avances.
+
+- **Pantalla de Perfil de Usuario:**
+
+  - Permite a los usuarios gestionar su perfil, configurar notificaciones y ver su actividad en la aplicación.
 
 - **Pantalla de Ayuda y Soporte:**
 
-  - Proporciona información y recursos de ayuda para los usuarios que puedan tener preguntas o problemas.
-
-- **Pantalla de Administración de Usuarios:**
-
-  - Permite a los administradores gestionar los usuarios, sus roles y permisos dentro de la aplicación.
+  - Proporciona información y recursos de ayuda para los usuarios que puedan tener preguntas o problemas relacionados con el racismo.
 
 - **Pantalla de Notificaciones:**
 
-  - Muestra notificaciones importantes o alertas relevantes para los usuarios.
+  - Muestra notificaciones importantes, actualizaciones de contenido y eventos relacionados con la igualdad.
+
+- **Pantalla de Configuración:**
+
+  - Permite a los usuarios personalizar su experiencia, ajustar preferencias y configurar notificaciones.
 
 - **Pantalla de Actualizaciones y Novedades:**
-  - Informa a los usuarios sobre nuevas funcionalidades o actualizaciones de la aplicación.
+  - Informa a los usuarios sobre nuevos recursos, eventos y campañas relacionados con la igualdad y la lucha contra el racismo.
 
 <!-- ### 5. Funcionalidades Destacadas: -->
 
