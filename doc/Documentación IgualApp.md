@@ -98,31 +98,37 @@ Toda la documentación relacionada con el proyecto se almacenará en la página 
 
 <!-- TODO: PONER PANTALLAS QUE SON Y MODIFICARLAS SEGÚN LA APLICACIÓN -->
 
-#### 3.1.5. Pantalla de Modelado y Simulación:
+#### 3.1.5. Pantalla de Recursos Educativos:
 
-#### 3.1.6. Pantalla de Informes y Gráficos:
+#### 3.1.6. Pantalla de Comunidad:
 
-#### 3.1.7. Pantalla de Configuración:
+#### 3.1.7. Pantalla de Denuncia de Incidentes:
 
-#### 3.1.8. Pantalla de Ayuda y Soporte:
+#### 3.1.8. Pantalla de Información y Estadísticas:
+
+#### 3.1.9. Pantalla de Perfil de Usuario:
+
+#### 3.1.10. Pantalla de Configuración:
+
+#### 3.1.11. Pantalla de Ayuda y Soporte:
 
 - Se proporcionará **información completa** y accesible para ayudar a los usuarios.
 - Los recursos de ayuda serán consistentes y precisos, ofreciendo soluciones para **problemas comunes**.
 - La actualización y adición de recursos será posible según necesidades cambiantes.
 
-#### 3.1.9. Pantalla de Administración de Usuarios:
+#### 3.1.12. Pantalla de Administración de Usuarios:
 
 - Los administradores podrán **gestionar usuarios** y roles de manera eficiente.
 - Se brindarán funciones para agregar, modificar y eliminar usuarios, así como asignar roles; **CRUD**.
 - La presentación será uniforme y las acciones de administración serán precisas.
 
-#### 3.1.10. Pantalla de Notificaciones:
+#### 3.1.13. Pantalla de Notificaciones:
 
 - Se proporcionarán notificaciones relevantes y **oportunas** a los usuarios.
 - La presentación de notificaciones será coherente y permitirá la personalización.
 - Se garantizará la **precisión de la información** enviada.
 
-#### 3.1.11. Pantalla de Actualizaciones y Novedades:
+#### 3.1.14. Pantalla de Actualizaciones y Novedades:
 
 ### 3.2. _Requerimientos No Funcionales:_
 
