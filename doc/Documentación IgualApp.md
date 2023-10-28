@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps Logo" width="400"/>
+  <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/bannerNegro.png?raw=true" alt="IgualApp Logo" width="400"/>
 </p>
 
 <h6 align="right">Adrián Camilo Tuta Cortés, Miguel Ángel Bejarano e Irving Rios Ramirez.</h6>
@@ -249,8 +249,6 @@ La aplicación estará diseñada para ser compatible con sistemas operativos com
 - _Control de Versiones_: Git.
 - _Plataforma de Despliegue_: Docker.
 
-## 5. [Presentación del proyecto](https://www.canva.com/design/DAFrA2Mk0kg/GPSIsVQc-SVUu8AG1g9nDw/edit?utm*content=DAFrA2Mk0kg&utm*campaign=designshare&utm*medium=link2&utm*source=sharebutton)
-
 ---
 
 # <center> <h6>APLICACIÓN</h6></center>
@@ -262,13 +260,13 @@ La aplicación estará diseñada para ser compatible con sistemas operativos com
 - #### Icono de la aplicación:
 
   <p align="center">
-    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/icon.png?raw=true" alt="GreenOps icon" width="200"/>
+    <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/icon.png?raw=true" alt="IgualApp icon" width="200"/>
   </p>
 
 - #### Logo grande:
 
   <p align="center">
-    <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/iconos/bannerNegro.png?raw=true" alt="GreenOps banner" width="300"/>
+    <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/iconos/bannerNegro.png?raw=true" alt="IgualApp banner" width="300"/>
   </p>
 
 ### 2. TIPOGRAFÍA
@@ -283,16 +281,16 @@ La aplicación estará diseñada para ser compatible con sistemas operativos com
 
 | Elemento       | Código de Color | Ejemplo                                                                                                                                           |
 | -------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fondo          | `#16161a`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorFondo.png?raw=true" alt="Color de Fondo " width="200"/>               |
-| Encabezado     | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorEncabezado.png?raw=true" alt="Color de Encabezado " width="200"/>     |
-| Párrafo        | `#94a1b2`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorParrafo.png?raw=true" alt="Color de Párrafo " width="200"/>           |
-| Botón          | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorBoton.png?raw=true" alt="Color de Botón " width="200"/>               |
-| Texto de Botón | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorTextoBoton.png?raw=true" alt="Color de Texto de Botón " width="200"/> |
-| Resaltado      | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorResaltado.png?raw=true" alt="Color de Resaltado " width="200"/>       |
-| Borde          | `#010101`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorBorde.png?raw=true" alt="Color de Borde " width="200"/>               |
-| Principal      | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorPrincipal.png?raw=true" alt="Color de Principal " width="200"/>       |
-| Secundario     | `#72757e`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorSecundario.png?raw=true" alt="Color de Secundario " width="200"/>     |
-| Terciario      | `#2cb67d`       | <img src="https://github.com/CaMiLoTuTa/GreenOps/blob/main/img/colores/colorTerciario.png?raw=true" alt="Color de Terciario " width="200"/>       |
+| Fondo          | `#16161a`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorFondo.png?raw=true" alt="Color de Fondo " width="200"/>               |
+| Encabezado     | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorEncabezado.png?raw=true" alt="Color de Encabezado " width="200"/>     |
+| Párrafo        | `#94a1b2`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorParrafo.png?raw=true" alt="Color de Párrafo " width="200"/>           |
+| Botón          | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorBoton.png?raw=true" alt="Color de Botón " width="200"/>               |
+| Texto de Botón | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorTextoBoton.png?raw=true" alt="Color de Texto de Botón " width="200"/> |
+| Resaltado      | `#7f5af0`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorResaltado.png?raw=true" alt="Color de Resaltado " width="200"/>       |
+| Borde          | `#010101`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorBorde.png?raw=true" alt="Color de Borde " width="200"/>               |
+| Principal      | `#fffffe`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorPrincipal.png?raw=true" alt="Color de Principal " width="200"/>       |
+| Secundario     | `#72757e`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorSecundario.png?raw=true" alt="Color de Secundario " width="200"/>     |
+| Terciario      | `#2cb67d`       | <img src="https://github.com/CaMiLoTuTa/IgualApp/blob/main/img/colores/colorTerciario.png?raw=true" alt="Color de Terciario " width="200"/>       |
 
 ### 3. PANTALLAS
 
